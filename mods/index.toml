@@ -106,7 +106,7 @@ hash = "88a4b9df8024bfb56294ee78b9c85e569f35c66cc9f14e88284512335a3638d2"
 
 [[files]]
 file = "mods/animatica.pw.toml"
-hash = "23b3d1ad268ba3a1eaaea01b74ff3dd5ae9123c0cb0ba29ec85c98b0e6eadfba"
+hash = "8d880605a7d40af25b6ba3f403b9eb9d650727acb4e1df1a0e16f0de46cbc58e"
 metafile = true
 
 [[files]]
@@ -152,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic_fps.pw.toml"
 hash = "445b648266c321b8a8e2a9189d6f0c8f193a2741c890302d1dda3f5c2ede00a7"
+metafile = true
+
+[[files]]
+file = "mods/e4mc.pw.toml"
+hash = "e663f7a8af3dc2e071bce60131381a2ef243d9cc84ed5b74b1c2ae5cd244ac86"
 metafile = true
 
 [[files]]
