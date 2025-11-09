@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/2ecVyZ49/versions/ZQJ73k0i/Ksyxis-1.3.0.jar"
-hash-format = "sha512"
-hash = "3a193fa1717dc5c7faa5a3376143f802a7c5dd71bad47ae7ed2e6ede9b9bc0da3e24141665158b39db301dd26523d5436a78bf665f936ac87435b1300a0c9bbe"
+hash-format = "sha256"
+hash = "53fef57ee8188e6485beedb44d8fdb32a6ec27bdedf1359c6a010c3f21f9ad3f"
 
 [update]
 [update.modrinth]

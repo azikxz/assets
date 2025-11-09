@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/neW85eWt/krypton-0.2.9.jar"
-hash-format = "sha512"
-hash = "2e2304b1b17ecf95783aee92e26e54c9bfad325c7dfcd14deebf9891266eb2933db00ff77885caa083faa96f09c551eb56f93cf73b357789cb31edad4939ffeb"
+hash-format = "sha256"
+hash = "b866226be1f60cf6b0650c41bb193becf30a7ec37c184519a37175cd9dcc63aa"
 
 [update]
 [update.modrinth]

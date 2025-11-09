@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/NtPNF0D7/versions/c9UWpLMq/jukeboxcustomdiscfix-0.1.5-1.21.10.jar"
-hash-format = "sha512"
-hash = "4bc7f58ae69bbbe4a73b4e2d7320133add5b5aace321c2b1da437121b5aa0c5429cea66ab2f157999ef0bfccb247a558d4032684244c19bac9cda0f47d914c6e"
+hash-format = "sha256"
+hash = "7d124b6e5bb5d440cc3b1a44868335f723e097fab706a3d5e5472af31a422b6f"
 
 [update]
 [update.modrinth]

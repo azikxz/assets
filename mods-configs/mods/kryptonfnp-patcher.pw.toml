@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/yzkasIPx/versions/doMXlyEN/fnp_patcher-25.07.2.jar"
-hash-format = "sha512"
-hash = "b73da89902ee138921d1ebb01425a331f63cbcdc6fb3565f94d728602db645dfdc3e5d95692f688df099959b18427fa954f05b11b4d9181679a175c841867cd5"
+hash-format = "sha256"
+hash = "87b28a39ba1bf2558381459fcd53f1f5fa5cc6d18795d41e92a1df917cf170ca"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/jn24bUJo/versions/oLDacQ3m/SkeletonAIFix-v21.8.0-1.21.8-Fabric.jar"
-hash-format = "sha512"
-hash = "ab70df811f85589d50b248301941b9f286d6dd6ed28ed27bad0b5621404fa8e3c4450db468bd943c8f135e85fc94dce4c3e884b19f4c68ffbff03f31e413b201"
+hash-format = "sha256"
+hash = "c467d249ae00dc840b0cbd0f45a18f275e60e37f24ed83dcf4fbbb44e14b7b29"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/vE2FN5qn/versions/M9egl08c/letmedespawn-1.21.5-fabric-1.5.1.jar"
-hash-format = "sha512"
-hash = "28b6360d1feb0908a1acfaac8309896f0072dc8e4a789cd4e36e52535bb452f054408d2474e737fad740532e34bc08f31ea5924d3ad75d9c51c1dc0c2258bff6"
+hash-format = "sha256"
+hash = "b3fd45c842a07b7f82ffc5a1dffd217c1676831ff9f95d12d0376a8b5c4f48b8"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/YS3ZignI/versions/lbNLLcIb/tt20-0.7.2%2Bmc1.21.2.jar"
-hash-format = "sha512"
-hash = "3ea3b37b95d3d03616c2d06bb1c40b88301073fd53b95f475aced86641039cb087f785c49a584c53534b8784c16902b3257bbefd6d14cbc29cf688dc5aac4b52"
+hash-format = "sha256"
+hash = "883fab9ed7b17ad1a2b92c4900b45a05b0143d164d13acf3bf10f00e51cac7d3"
 
 [update]
 [update.modrinth]

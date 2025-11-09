@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/4LzgJp1j/versions/WkShQl9c/Vertigo-1.1.6-MC1.21.8.jar"
-hash-format = "sha512"
-hash = "846b735f21c83ff3578e4227fc463650fe45c3d38c7da481d3f0b0f8436207665674b5622065f77aa65be44b1c812611d990584adb256772c027d39c7b326179"
+hash-format = "sha256"
+hash = "9a1afa97dbb4b1412f61b81db380df9a35d77d9dbee2fed10aa4803f22917e6d"
 
 [update]
 [update.modrinth]

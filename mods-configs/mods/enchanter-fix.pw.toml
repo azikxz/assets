@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/vNE5j3Te/versions/g8EQfuum/enchanter_fix-1.6%2Bmc1.20-1.21.8.jar"
-hash-format = "sha512"
-hash = "5ce9d04078d5cc2d52df5441efec83624d3ab7509524bed0a8e218d40edd63e77553a6cd20ad7e8b1f07a40b4beed85db87d9d413a16a083efd7111a09acdd19"
+hash-format = "sha256"
+hash = "f21c579db8adcd8e4a2496aff10a1571afdd0fa4effb846a6f63a9d9233c3145"
 
 [update]
 [update.modrinth]

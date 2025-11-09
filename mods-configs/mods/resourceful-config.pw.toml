@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/M1953qlQ/versions/YwwLmDz9/ResourcefulConfig-fabric-1.21.7-3.7.6.jar"
-hash-format = "sha512"
-hash = "378d0ffb6d9730a28a34042224d965eea0df918eae285cac7254313c20fffbd053bb88c435fd737b290796010fca7fea87c4e3f66db88c4684d609bb17f334fe"
+hash-format = "sha256"
+hash = "40dfa8f3e67baa1285ec58d2f5f22bf068203e49b3ec0685ad8525308caca34e"
 
 [update]
 [update.modrinth]
