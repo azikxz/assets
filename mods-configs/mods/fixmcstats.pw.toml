@@ -1,0 +1,13 @@
+name = "FixMCStats"
+filename = "fix-mc-stats-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SQKipbkd/versions/XziUtBSr/fix-mc-stats-2.0.0.jar"
+hash-format = "sha512"
+hash = "cf173cde3d6fbd5db3d3122818c94fb928bf249525d684cf40ba292101ed9ed6737053cec78f36610a26718466033e5526495bb377cfa72b160e3d6538ba4e6c"
+
+[update]
+[update.modrinth]
+mod-id = "SQKipbkd"
+version = "XziUtBSr"

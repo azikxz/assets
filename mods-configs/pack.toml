@@ -1,0 +1,14 @@
+name = "Kvantik adventures"
+author = "azikx"
+version = "0.0.1"
+description = "unstable modpack for my server..."
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9d0af8c6144ef146e7a27e9ce38414f98b3f8a8b67d90c0a155f4bbfa4da010c"
+
+[versions]
+fabric = "0.17.2"
+minecraft = "1.21.8"
